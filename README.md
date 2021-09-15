@@ -1,6 +1,6 @@
 # Memory Game - Vanilla JavaScript
 
-I have written this code following the video of the Brazilian [Marina Ferreira](https://www.youtube.com/watch?v=ZniVgo8U7ek)for Freecodecamp.
+I have written this code following the video of the Brazilian [Marina Ferreira](https://www.youtube.com/watch?v=ZniVgo8U7ek) for Freecodecamp.
 
 * ✏️ Wriiten Tutorial: <a href="https://marina-ferreira.github.io/tutorials/js/memory-game/" target="_blank">Memory Game Tutorial</a>
 
